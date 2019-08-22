@@ -1,4 +1,4 @@
-package com.kloudportal.bricks.manager;
+package com.application.bricks.manager;
 
 public interface BricksManager {
 

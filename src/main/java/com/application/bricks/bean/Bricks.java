@@ -1,4 +1,4 @@
-package com.kloudportal.bricks.bean;
+package com.application.bricks.bean;
 
 public class Bricks {
 

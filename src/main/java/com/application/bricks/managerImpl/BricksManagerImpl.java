@@ -1,8 +1,8 @@
-package com.kloudportal.bricks.managerImpl;
+package com.application.bricks.managerImpl;
 
 import org.springframework.stereotype.Component;
 
-import com.kloudportal.bricks.manager.BricksManager;
+import com.application.bricks.manager.BricksManager;
 
 @Component
 public class BricksManagerImpl implements BricksManager{

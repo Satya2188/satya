@@ -1,4 +1,4 @@
-package com.kloudportal.bricks.controller;
+package com.application.bricks.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.kloudportal.bricks.bean.Bricks;
-import com.kloudportal.bricks.manager.BricksManager;
+import com.application.bricks.bean.Bricks;
+import com.application.bricks.manager.BricksManager;
 @RestController
 @RequestMapping("/bricks")
 public class OrderController {

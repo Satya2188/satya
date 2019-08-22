@@ -1,4 +1,4 @@
-package com.kloudportal.bricks;
+package com.application.bricks;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

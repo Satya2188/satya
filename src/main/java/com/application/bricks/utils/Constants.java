@@ -1,4 +1,4 @@
-package com.kloudportal.bricks.utils;
+package com.application.bricks.utils;
 
 public class Constants {
 

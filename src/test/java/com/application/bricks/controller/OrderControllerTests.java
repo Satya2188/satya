@@ -1,4 +1,4 @@
-package com.kloudportal.bricks.controller;
+package com.application.bricks.controller;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -11,9 +11,10 @@ import org.mockito.MockitoAnnotations;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
-import com.kloudportal.bricks.bean.Bricks;
-import com.kloudportal.bricks.manager.BricksManager;
-import com.kloudportal.bricks.utils.Constants;
+import com.application.bricks.bean.Bricks;
+import com.application.bricks.controller.OrderController;
+import com.application.bricks.manager.BricksManager;
+import com.application.bricks.utils.Constants;
 
 public class OrderControllerTests {
 
